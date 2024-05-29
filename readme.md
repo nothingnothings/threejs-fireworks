@@ -1,6 +1,6 @@
 # Three.js Fireworks 🎆
 
-A simple Three.js project that creates fireworks animations upon left mouse clicks on the canvas.
+A simple Three.js project that creates fireworks animations upon left mouse clicks on the canvas. Developed as a part of Bruno Simon's [Three.js Journey Course](https://threejs-journey.com/).
 
 
 See it in action [here](https://nothingnothings.github.io/threejs-fireworks/) 
