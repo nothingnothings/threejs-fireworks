@@ -5,7 +5,7 @@ A simple Three.js project that creates fireworks animations upon left mouse clic
 
 See it in action [here](https://nothingnothings.github.io/threejs-fireworks/) 
 
-![Fireworks Demo](demo.gif)
+![Fireworks Demo](/screenshots/fireworks.gif)
 
 ## Features
 
