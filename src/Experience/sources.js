@@ -45,4 +45,3 @@ export default [
     path: 'particles/8.png',
   },
 ];
-
