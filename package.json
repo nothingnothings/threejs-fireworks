@@ -1,5 +1,6 @@
 {
   "name": "threejs-fireworks",
+  "homepage": "http://nothingnothings.github.io/threejs-fireworks",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,6 +9,7 @@
     "build": "vite build"
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "vite": "^5.0.12",
     "vite-plugin-glsl": "^1.2.1"
   },
