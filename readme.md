@@ -1,3 +1,0 @@
-# Three.js Fireworks
-
-## Setup
