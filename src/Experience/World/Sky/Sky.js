@@ -24,10 +24,13 @@ export default class Sky {
     };
 
     this.debug = this.experience.debug;
-    this.debug.active = true;
 
     this.createSky();
-    this.setDebug();
+
+    if (this.debug.active) {
+      this.setDebug();
+    }
+
   }
 
   createSky() {
