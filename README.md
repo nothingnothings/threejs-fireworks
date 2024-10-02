@@ -1,5 +1,9 @@
 # Three.js Fireworks 🎆
 
+[![en](https://img.shields.io/badge/lang-en-red.svg?style=flat-square)](https://github.com/nothingnothings/threejs-fireworks)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg?style=flat-square)](https://github.com/nothingnothings/threejs-fireworks/blob/master/README.pt-br.md)
+
+
 A simple Three.js project that creates fireworks animations upon left mouse clicks on the canvas. Developed as a part of Bruno Simon's [Three.js Journey Course](https://threejs-journey.com/).
 
 
