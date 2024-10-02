@@ -3,7 +3,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg?style=flat-square)](https://github.com/nothingnothings/threejs-fireworks)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg?style=flat-square)](https://github.com/nothingnothings/threejs-fireworks/blob/master/README.pt-br.md)
 
-Um projeto simples em Three.js que cria animações de fogos de artifício ao clicar com o mouse esquerdo no canvas. Desenvolvido como parte do curso [Three.js Journey](https://threejs-journey.com/), de Bruno Simon.
+Um simples projeto em Three.js que cria animações de fogos de artifício ao clicar com o mouse esquerdo no canvas. Desenvolvido como parte do curso [Three.js Journey](https://threejs-journey.com/), de Bruno Simon.
 
 
 
